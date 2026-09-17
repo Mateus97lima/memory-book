@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import BookPage from './BookPage';
+import BookPage from '../BookPage/BookPage';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { soundFx } from '../utils/audioEffects';
+import { soundFx } from '../../utils/audioEffects';
 
 export default function Book({ 
   leftMemory, 
