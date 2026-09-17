@@ -77,7 +77,7 @@ export default function BookPage({
 
       {/* Page Bottom Footer */}
     <div className="pt-3 border-t border-amber-900/10 flex items-center justify-between text-[11px] text-amber-900/50 font-serif italic">
-        <span>{isLeft ? '— Memora' : 'Guarde seus momentos —'}</span>
+        <span>{isLeft ? '— Memory' : 'Guarde seus momentos —'}</span>
         <span>{pageLabel}</span>
     </div>
     </div>

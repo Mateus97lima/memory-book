@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { INITIAL_MEMORIES } from '../utils/sampleMemories';
 
-const STORAGE_KEY = 'memora_memories_v1';
+const STORAGE_KEY = 'memory_memories_v1';
 
 export function useMemories() {
     const [memories, setMemories] = useState(() => {
