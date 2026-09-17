@@ -67,7 +67,7 @@ export default function Cover({ onOpenBook, totalMemories = 0 }) {
           {/* Book Title & Quotes */}
             <div className="my-auto py-6 space-y-4">
             <h1 className="font-display text-5xl sm:text-6xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-b from-amber-100 via-amber-200 to-amber-400 drop-shadow-md">
-                Memora
+                Memory
             </h1>
             
             <div className="w-24 h-px bg-gradient-to-r from-transparent via-amber-400/40 to-transparent mx-auto" />

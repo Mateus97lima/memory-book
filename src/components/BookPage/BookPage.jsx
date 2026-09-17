@@ -38,7 +38,7 @@ export default function BookPage({
             {pageLabel}
         </span>
         <span className="text-[10px] uppercase tracking-widest text-amber-900/40 font-sans">
-            Memora • Livro de Memórias
+            Memory • Livro de Memórias
         </span>
         </div>
 
